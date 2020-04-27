@@ -1,0 +1,7 @@
+@ com.montee.wol
+%api: ranga:1
+%magic: ABI_NSWA_LUA51;ABI_NSWA_LUAJIT;
+%name: The mising Wake-On-LAN support for Ranga
+%ver: 0.2
+%author: montee
+%-x-min-system-version: 4.5.8
